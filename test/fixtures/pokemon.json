@@ -1,0 +1,8 @@
+{
+  "name": "Bulbasaur",
+  "weight": 10,
+  "height": 10,
+  "sprites": {
+    "front_default": "www.google.com/images"
+  }
+}
